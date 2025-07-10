@@ -1,4 +1,4 @@
-#  Comparing Bangladesh's Economy Pre-Interim Governement vs Under the Interim Government.
+#  Comparing Bangladesh's Economy Pre-Interim Government vs Under the Interim Government.
 
 
 
