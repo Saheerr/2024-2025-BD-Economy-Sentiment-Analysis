@@ -1,4 +1,6 @@
-#  Bangladesh Economic Sentiment & Inflation Analysis (2023–2025)
+#  Comparing Bangladesh's Economy Pre-Interim Governement vs Under the Interim Government.
+
+
 
 This project analyzes the economic sentiment in Bangladesh during the transition from the Hasina regime to the 2024–2025 interim government. Although the Hasina regime started from 2009 and ended on August 2024, I am only taking in data from 2023-2025. The study uses **news sentiment analysis** and **macroeconomic indicators** (inflation and GDP) to evaluate how economic perception and reality shifted across the transition. Headlines from *The Daily Star* (via Google News RSS) are analyzed using **VADER sentiment analysis**, and compared with inflation and GDP data from the **Bangladesh Bank** and the **IMF World Economic Outlook**.
 
